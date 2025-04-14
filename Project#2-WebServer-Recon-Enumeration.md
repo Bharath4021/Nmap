@@ -19,7 +19,7 @@ For this lab, we used Kali Linux as the attacker machine, equipped with Nmap. Th
 - *nmap --script http-methods 192.168.1.74*
 
 ## Results
-
+![image alt](  )
 ## Analysis & Security Observations
 
 ### During analysis, we reviewed the discovered paths and evaluated their security implications:
