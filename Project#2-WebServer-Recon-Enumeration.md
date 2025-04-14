@@ -21,7 +21,8 @@ For this lab, we used Kali Linux as the attacker machine, equipped with Nmap. Th
 ## Results
 ![image alt](https://github.com/Bharath4021/Nmap/blob/ce20288362a87a36738259a66fa7e650eaece888/Images/Screenshot%202025-04-14%20143411.png)
 
-![image alt](https://github.com/Bharath4021/Nmap/blob/ce20288362a87a36738259a66fa7e650eaece888/Images/Screenshot%202025-04-14%20143411.png)
+![image alt](https://github.com/Bharath4021/Nmap/blob/5e42f24cf651407725961c3afb0c498e714a3beb/Images/Screenshot%202025-04-14%20143502.png)
+
 ## Analysis & Security Observations
 
 ### During analysis, we reviewed the discovered paths and evaluated their security implications:
