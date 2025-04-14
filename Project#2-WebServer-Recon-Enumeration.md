@@ -12,12 +12,13 @@ This project focuses on identifying exposed web directories, supported HTTP meth
 For this lab, we used Kali Linux as the attacker machine, equipped with Nmap. The target system is Metasploitable 2, a vulnerable virtual machine commonly used for penetration testing practice. Both virtual machines were configured in VirtualBox, using either the Host-Only Adapter or NAT network mode to ensure they are on the same network and can communicate securely without exposing the lab to the internet. This isolated environment allows for safe, controlled experimentation with web enumeration and vulnerability discovery tools.
 
 ## Nmap Scans
-- **http-enum Output*
-nmap --script http-enum 192.168.1.74
+- **http-enum**
+- *nmap --script http-enum 192.168.1.74*
 
-- **http-methods Output*
-nmap --script http-methods 192.168.1.74
+- **http-methods**
+- *nmap --script http-methods 192.168.1.74*
 
+## Results
 
 ## Analysis & Security Observations
 
